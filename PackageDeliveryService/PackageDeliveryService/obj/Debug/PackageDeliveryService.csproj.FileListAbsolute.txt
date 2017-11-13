@@ -1,0 +1,6 @@
+c:\users\sdmim\documents\visual studio 2013\Projects\PackageDeliveryService\PackageDeliveryService\bin\Debug\PackageDeliveryService.exe.config
+c:\users\sdmim\documents\visual studio 2013\Projects\PackageDeliveryService\PackageDeliveryService\obj\Debug\PackageDeliveryService.csprojResolveAssemblyReference.cache
+c:\users\sdmim\documents\visual studio 2013\Projects\PackageDeliveryService\PackageDeliveryService\bin\Debug\PackageDeliveryService.exe
+c:\users\sdmim\documents\visual studio 2013\Projects\PackageDeliveryService\PackageDeliveryService\bin\Debug\PackageDeliveryService.pdb
+c:\users\sdmim\documents\visual studio 2013\Projects\PackageDeliveryService\PackageDeliveryService\obj\Debug\PackageDeliveryService.exe
+c:\users\sdmim\documents\visual studio 2013\Projects\PackageDeliveryService\PackageDeliveryService\obj\Debug\PackageDeliveryService.pdb

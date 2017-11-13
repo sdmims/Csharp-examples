@@ -1,0 +1,12 @@
+c:\users\sdmim\documents\visual studio 2013\Projects\LabMidterm\LabMidterm\bin\Debug\LabMidterm.exe.config
+c:\users\sdmim\documents\visual studio 2013\Projects\LabMidterm\LabMidterm\bin\Debug\LabMidterm.exe
+c:\users\sdmim\documents\visual studio 2013\Projects\LabMidterm\LabMidterm\bin\Debug\LabMidterm.pdb
+c:\users\sdmim\documents\visual studio 2013\Projects\LabMidterm\LabMidterm\obj\Debug\LabMidterm.csprojResolveAssemblyReference.cache
+c:\users\sdmim\documents\visual studio 2013\Projects\LabMidterm\LabMidterm\obj\Debug\LabMidterm.Form1.resources
+c:\users\sdmim\documents\visual studio 2013\Projects\LabMidterm\LabMidterm\obj\Debug\LabMidterm.Properties.Resources.resources
+c:\users\sdmim\documents\visual studio 2013\Projects\LabMidterm\LabMidterm\obj\Debug\LabMidterm.csproj.GenerateResource.Cache
+c:\users\sdmim\documents\visual studio 2013\Projects\LabMidterm\LabMidterm\obj\Debug\LabMidterm.exe
+c:\users\sdmim\documents\visual studio 2013\Projects\LabMidterm\LabMidterm\obj\Debug\LabMidterm.pdb
+C:\Users\sdmim\Documents\GitRepos\Csharp-examples\LabMidterm\LabMidterm\bin\Debug\LabMidterm.exe.config
+C:\Users\sdmim\Documents\GitRepos\Csharp-examples\LabMidterm\LabMidterm\obj\Debug\LabMidterm.exe
+C:\Users\sdmim\Documents\GitRepos\Csharp-examples\LabMidterm\LabMidterm\obj\Debug\LabMidterm.pdb

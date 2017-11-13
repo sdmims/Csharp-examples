@@ -1,0 +1,12 @@
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe.config
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject1\FinalProject1\bin\Debug\FinalProject1.pdb
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject1\FinalProject1\obj\Debug\FinalProject1.csprojResolveAssemblyReference.cache
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject1\FinalProject1\obj\Debug\FinalProject1.Form1.resources
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject1\FinalProject1\obj\Debug\FinalProject1.Properties.Resources.resources
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject1\FinalProject1\obj\Debug\FinalProject1.csproj.GenerateResource.Cache
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject1\FinalProject1\obj\Debug\FinalProject1.exe
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject1\FinalProject1\obj\Debug\FinalProject1.pdb
+C:\Users\sdmim\Documents\GitRepos\Csharp-examples\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe.config
+C:\Users\sdmim\Documents\GitRepos\Csharp-examples\FinalProject1\FinalProject1\obj\Debug\FinalProject1.exe
+C:\Users\sdmim\Documents\GitRepos\Csharp-examples\FinalProject1\FinalProject1\obj\Debug\FinalProject1.pdb

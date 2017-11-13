@@ -1,0 +1,9 @@
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject02\FinalProject02\bin\Debug\FinalProject02.exe.config
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject02\FinalProject02\bin\Debug\FinalProject02.exe
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject02\FinalProject02\bin\Debug\FinalProject02.pdb
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject02\FinalProject02\obj\Debug\FinalProject02.exe
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject02\FinalProject02\obj\Debug\FinalProject02.pdb
+c:\users\sdmim\documents\visual studio 2013\Projects\FinalProject02\FinalProject02\obj\Debug\FinalProject02.csprojResolveAssemblyReference.cache
+C:\Users\sdmim\Documents\GitRepos\Csharp-examples\FinalProject02\FinalProject02\bin\Debug\FinalProject02.exe.config
+C:\Users\sdmim\Documents\GitRepos\Csharp-examples\FinalProject02\FinalProject02\obj\Debug\FinalProject02.exe
+C:\Users\sdmim\Documents\GitRepos\Csharp-examples\FinalProject02\FinalProject02\obj\Debug\FinalProject02.pdb
